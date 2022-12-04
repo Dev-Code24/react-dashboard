@@ -26,7 +26,7 @@ function App() {
           <main className="content">
             <Topbar />
             <Routes>
-              <Route path="/Dashboard-App/" element={<Dashboard />}></Route>
+              <Route path="/Dashboard-App/Dashboard" element={<Dashboard />}></Route>
               <Route path="/Dashboard-App/team" element={<Team />}></Route>
               <Route path="/Dashboard-App/contacts" element={<Contacts />}></Route>
               <Route path="/Dashboard-App/invoices" element={<Invoices />}></Route>
