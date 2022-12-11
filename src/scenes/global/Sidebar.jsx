@@ -96,7 +96,7 @@ const Sidebar = () => {
                   alt="profile-user"
                   width="100px"
                   height="100px"
-                  src={`./public/favicon.ico`}
+                  src={`../../favicon.ico`}
                   style={{ cursor: 'pointer', borderRadius: '50%' }}
                 />
               </Box>

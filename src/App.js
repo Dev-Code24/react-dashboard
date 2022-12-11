@@ -26,17 +26,17 @@ function App() {
           <main className="content">
             <Topbar />
             <Routes>
-              <Route path="/Dashboard-App/Dashboard" element={<Dashboard />}></Route>
-              <Route path="/Dashboard-App/team" element={<Team />}></Route>
-              <Route path="/Dashboard-App/contacts" element={<Contacts />}></Route>
-              <Route path="/Dashboard-App/invoices" element={<Invoices />}></Route>
-              <Route path="/Dashboard-App/form" element={<Form />}></Route>
-              <Route path="/Dashboard-App/calendar" element={<Calendar />}></Route>
-              <Route path="/Dashboard-App/faq" element={<FAQ />}></Route>
-              <Route path="/Dashboard-App/bar" element={<Bar/>}></Route>
-              <Route path="/Dashboard-App/pie" element={<Pie />}></Route>
-              <Route path="/Dashboard-App/line" element={<Line />}></Route>
-              <Route path="/Dashboard-App/geography" element={<Geography />}></Route>
+              <Route path="/" element={<Dashboard />}></Route>
+              <Route path="/team" element={<Team />}></Route>
+              <Route path="/contacts" element={<Contacts />}></Route>
+              <Route path="/invoices" element={<Invoices />}></Route>
+              <Route path="/form" element={<Form />}></Route>
+              <Route path="/calendar" element={<Calendar />}></Route>
+              <Route path="/faq" element={<FAQ />}></Route>
+              <Route path="/bar" element={<Bar/>}></Route>
+              <Route path="/pie" element={<Pie />}></Route>
+              <Route path="/line" element={<Line />}></Route>
+              <Route path="/geography" element={<Geography />}></Route>
             </Routes>
           </main>
         </div>
