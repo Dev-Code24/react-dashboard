@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dev-Code24/react-dashboard/static/css/main.f42a16f7.css",
+    "main.js": "/Dev-Code24/react-dashboard/static/js/main.1b1dfd7a.js",
+    "index.html": "/Dev-Code24/react-dashboard/index.html",
+    "main.f42a16f7.css.map": "/Dev-Code24/react-dashboard/static/css/main.f42a16f7.css.map",
+    "main.1b1dfd7a.js.map": "/Dev-Code24/react-dashboard/static/js/main.1b1dfd7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f42a16f7.css",
+    "static/js/main.1b1dfd7a.js"
+  ]
+}
